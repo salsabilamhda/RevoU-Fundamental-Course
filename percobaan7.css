@@ -1,0 +1,18 @@
+.container {
+     border: 5px solid #ffcc5f;
+     display: flex;
+     justify-content: flex-end; 
+}
+
+.container > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 14sp;
+    color: #ffcc5f;
+    border: 2px solid;
+    background-color: green;
+}
+
+.logo {
+    margin-right: auto;
+}
